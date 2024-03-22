@@ -1,0 +1,4 @@
+sphinx
+sphinxext-opengraph
+py-html-checker
+py-html-checker[cli]
